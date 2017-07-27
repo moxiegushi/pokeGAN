@@ -15,7 +15,7 @@ python resize.py
 python RGBA2RGB.py
 python pokeGAN.py
 ```
-## sample pokemons
+## example pokemons
 ![image1](https://github.com/moxiegushi/pokeGAN/raw/master/images/Notes_1500532347861.jpeg)
 
 ![image2](https://github.com/moxiegushi/pokeGAN/raw/master/images/Notes_1500532371830.jpeg)
