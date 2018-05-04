@@ -7,7 +7,7 @@ import os
 import random
 
 
-parent_dir = '/home/omewangyx/kaggle/carvical_cancer/data/train_test1_add_seg_aug_bal/'
+parent_dir = ''
 
 
 def pipline(height, width, channel, batch_size, k_fold, no_k):
